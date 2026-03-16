@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IF Sudeste MG</title>
+    <link rel="icon" href="img/ificon.webp">
+    <body>
+        <style>
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: lightblue;
+    text-align: left;
+}
+</style>
+<img src="img/banner.webp" alt="Logomarca do IF" width="80">
+<h1>IF Sudeste MG</h1>
+            <hr>
+        <p>O Instituto Federal do Sudeste de Minas Gerais tem como objetivo oferecer cursos nos diferentes níveis. Sendo eles:</p>
+        <ul>
+            <li>Ensino médio integrado</li>
+            <li>Técnico</li>
+            <li>Graduação</li>
+            <li>Pós-graduação</li>
+        </ul>
+        <hr>
+        <p>O IF Sudeste MG está presente nas seguintes cidades:</p>
+        <ol>
+            <li><a href="#">Rio Pomba</a></li>
+            <li><a href="#">Juiz de Fora</a></li>
+            <li><a href="#">Barbacena</a></li>
+            <li><a href="#">Muriaé</a></li>
+        </ol>
+    </head>
+</body>
+</html>
